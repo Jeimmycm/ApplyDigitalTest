@@ -1,0 +1,31 @@
+{
+  "newUserName" : "JeimmyC",
+  "signUpEmailAddress":"new-user",
+  "genderTitle":"Mrs",
+  "password":"Password1@",
+  "birthdayDay":"4",
+  "birthdayMonth": "June",
+  "birthdayYear" :"1994",
+  "firstName":"Jeimmy",
+  "lastName":"Camacho",
+  "company":"Apply Digital",
+  "addresOne":"Test Address 1",
+  "addresTwo":"Test Address 2",
+  "country" : "United States",
+  "state":"Test state",
+  "city":"Boston",
+  "zipcode":"Test zipcode",
+  "mobile":"3167970702",
+  "comment":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+  "subject":"Help me with info",
+
+  "productName" :"Fancy Green Top",
+  "productQuantity":"30",
+
+  "nameCard":"Jeimmy Camacho Medina",
+  "numberCard":"4970100000000055",
+  "cvc":"345",
+  "monthCard":"08",
+  "yearCard":"2028"
+
+  }
